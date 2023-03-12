@@ -1,4 +1,4 @@
-TWRP Device Tree for Vertex Impress Luck
+TWRP Device Tree for Vertex Impress Luck # rev. VLCK091864498
 ===========
 Unoffical Build for MT6580 TWRP 
 ------------------
